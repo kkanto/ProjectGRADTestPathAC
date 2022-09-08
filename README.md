@@ -1,2 +1,2 @@
-# ProjectGRADTestPathAC
-This is ProjectGRADTestPathAC
+# gradle_template
+This is testow2o12345
